@@ -1,0 +1,7 @@
+User-Agent: *
+Disallow: /login
+
+Sitemap: https://opufaijo.github.io/FUA/sitemap_index.txt
+Sitemap: https://opufaijo.github.io/KfQ/sitemap_index.txt
+Sitemap: https://opufaijo.github.io/jJW/sitemap_index.txt
+Sitemap: https://opufaijo.github.io/roQ/sitemap_index.txt
